@@ -1,5 +1,6 @@
 # spring-reactive-webflux
-Spring reactive webflux example with server and client part
+Spring reactive webflux example with server and client part. 
+You can read full article on my blog http://www.mgiglione.com/2018/05/23/reactive-webflux/
 
 ## Requirements
 
